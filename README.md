@@ -9,7 +9,7 @@
 <br>
 And soon to be...
 <br>
-<a target="_blank" href="https://main--cosmic-boba-66638a.netlify.app/">
+<a target="_blank" href="https://main--cosmic-boba-66638a.netlify.app/about">
     <img src="https://img.shields.io/badge/portfolio-233233.svg?style=for-the-badge&logo=anime.js&logoColor=white">
 </a>
 <details open><summary>Technologies</summary>
